@@ -1,2 +1,2 @@
 # LSTMAutoEncoder
-AI Project
+AI project for anomaly detection for fraud transactions using LSTM.
